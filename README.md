@@ -1,4 +1,4 @@
 # firstNodeJsApp
-for test node js
-express mongoose ejs :D
-i think it's awesome hahahaha
+for test node js <br/>
+express mongoose ejs :D <br/>
+i think it's awesome hahahaha <br/>
